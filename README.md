@@ -33,9 +33,7 @@ Write code to transform the given array into the "after" state.
 - Do not reassign the entire array (you can't since it is declared `const`).
 - Do not use loops yet (we will practice this later)
 
-EXAMPLE:
-
-Transform `list` into the "after" state:
+EXAMPLE: Transform `list` into the "after" state:
 
 ```
 const list = [1, 2, 3, 4]; 
@@ -50,6 +48,13 @@ list[1] = 0;
 list[2] = 0;
 list[3] = 0;
 
+```
+
+1.  Transform `list` into the "after" state, using the [`push`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push) method.
+
+```
+const list = [1, 2, 3, 4]; 
+//    AFTER: [1, 2, 3, 4, 5]
 ```
 
 
