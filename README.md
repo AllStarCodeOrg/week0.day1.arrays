@@ -50,7 +50,7 @@ list[3] = 0;
 
 ```
 
-1.  Transform `list` into the "after" state, using the [`push`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push) method.
+### 1. Transform `list` into the "after" state, using the [`push`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push) method.
 
 ```
 const list = [1, 2, 3, 4]; 
