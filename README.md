@@ -57,6 +57,13 @@ const list = [1, 2, 3, 4];
 ```
 
 
+### 2. Transform `list` into the "after" state, using the [`pop`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop) method.
+
+```
+const list = [1, 2, 3, 4, 5]; 
+//    AFTER: [1, 2, 3]
+```
+
 
 ## Array mysteries
 
