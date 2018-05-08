@@ -47,7 +47,6 @@ list[0] = 0;
 list[1] = 0;
 list[2] = 0;
 list[3] = 0;
-
 ```
 
 ### 1. Transform `list` into the "after" state, using the [`push`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push) method.
