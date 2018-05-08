@@ -34,12 +34,17 @@ Write code to transform the given array into the "after" state.
 - Do not use loops yet (we will practice this later)
 
 EXAMPLE:
+
+Transform `list` into the "after" state:
+
 ```
 const list = [1, 2, 3, 4]; 
 //    AFTER: [0, 0, 0, 0]
+```
 
-// One solution:
+One solution:
 
+```
 list[0] = 0;
 list[1] = 0;
 list[2] = 0;
