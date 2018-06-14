@@ -111,7 +111,7 @@ console.log(items);
 2. Don't ask what kind of build this is, because I don't know
 
 ## Spot the error
-### Pretend to be the computer for a moment and find what the error before running it. Note: some things may be of poor design, but not technically cause an error
+### Pretend to be the computer for a moment and find what the error is before running it. Note: some things may be of poor design, but not technically cause an error
 
 1. ```javascript
     cosnt myArray = [2,4,5,7];
