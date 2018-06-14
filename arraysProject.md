@@ -143,7 +143,7 @@ console.log(items);
     ];
    ```
 
-## Weird
+## Modification through `.length`
 ```javascript
 const x = [4,5,6,7,4,1,1];
 x.length; // 7
