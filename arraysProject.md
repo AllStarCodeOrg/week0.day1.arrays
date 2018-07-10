@@ -68,7 +68,7 @@ const list = [1, 2, 3, 4, 5];
 //    AFTER: [1, 2, 3]
 ```
 
-### 3. Transform using the [`shift`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift) method.
+### 3. Transform using the [`unshift`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift) method.
 
 ```javascript
 const list = [1, 2, 3, 4, 5]; 
